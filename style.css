@@ -1,0 +1,42 @@
+body {
+    background-color : aqua;
+}
+span {
+    display: block;
+    visibility: hidden;
+    color: blueviolet;
+    height: 100px;
+    background-color: brown;
+}
+
+div {
+    width: 50%;
+    height: 80px;
+    background-color: yellow;
+    margin-top : 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    padding-left:50px;
+    padding-top: 50px;
+    border-style: solid;
+    border-left-color: brown;
+    border-width: 10px;
+    border-radius: 30px;
+    font-family: 'Courier New';
+    font-style: oblique;
+    font-size: 10px;
+    float: right;
+
+}
+
+.second-p {
+    color: chocolate;
+}
+
+a:hover {
+    color: chartreuse;
+}
+
+a:visited {
+    color: darkgreen;
+}
