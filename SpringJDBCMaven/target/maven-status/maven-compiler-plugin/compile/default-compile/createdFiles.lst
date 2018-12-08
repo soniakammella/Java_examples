@@ -1,7 +1,0 @@
-com\htc\spring4\dao\ProductDAO.class
-com\htc\spring4\main\ProductJDBCMain.class
-com\htc\spring4\log\LoggingAspects.class
-com\htc\spring4\beans\Product.class
-com\htc\spring4\dao\ProductDAOImpl$2.class
-com\htc\spring4\dao\ProductDAOImpl.class
-com\htc\spring4\dao\ProductDAOImpl$1.class
